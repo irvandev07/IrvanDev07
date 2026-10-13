@@ -22,7 +22,7 @@
 
 I'm **Irvan**, a **Full Stack Developer** working across modern frontend technologies, backend services, and enterprise workflow platforms.
 
-My technical focus spans **React, Next.js, TypeScript, Hono.js, Django, .NET, and K2 Workflow**. I value clear architecture, maintainable code, intuitive user experiences, and solutions that support real business processes.
+My technical focus spans **React, Next.js, TypeScript, Hono.js, Django, and K2 Workflow**. I value clear architecture, maintainable code, intuitive user experiences, and solutions that support real business processes.
 
 > **Engineering philosophy:** Design with intention. Build for reliability. Improve continuously.
 
@@ -45,7 +45,7 @@ My technical focus spans **React, Next.js, TypeScript, Hono.js, Django, .NET, an
 **Backend & Enterprise**
 
 <p>
-  <img alt="Django and .NET" src="https://skillicons.dev/icons?i=django,dotnet&theme=dark" />
+  <img alt="Django and .NET" src="https://skillicons.dev/icons?i=django&theme=dark" />
 </p>
 
 <p>
@@ -56,7 +56,7 @@ My technical focus spans **React, Next.js, TypeScript, Hono.js, Django, .NET, an
 | Area | Technologies | Engineering focus |
 | :--- | :--- | :--- |
 | **Web interfaces** | React · Next.js · TypeScript | Accessible, maintainable web applications |
-| **API & services** | Hono.js · Django · .NET | Application logic, API design, integration |
+| **API & services** | Hono.js · Django · | Application logic, API design, integration |
 | **Process automation** | K2 Workflow | Workflow implementation and business process integration |
 
 ## 03 — Areas of Focus
